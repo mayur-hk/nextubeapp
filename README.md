@@ -1,2 +1,2 @@
 # nextubeapp
-next tube app for the next learning
+next tube app for the next learning.
